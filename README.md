@@ -6,7 +6,7 @@ This project provides a comprehensive analysis of Zomato's sales performance acr
 
 ## Features
 
-1) Sales Performance Analysis: Insights on sales across different food categories, locations, and time periods. \\
+1) Sales Performance Analysis: Insights on sales across different food categories, locations, and time periods.
 2) Order Monitoring: Tracking the number of orders, total quantities, and revenue to uncover trends and peak hours.
 3) City-Wise Performance: Evaluation of performance metrics across different cities to identify high and low-performing regions.
 4) Actionable Insights: Data-driven recommendations for improving inventory management and marketing initiatives.
